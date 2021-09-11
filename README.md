@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Java
-- 🤔 I’m looking for help with Spring Boot
+- 🌱 I’m currently learning Java and JavaScript
+- 🤔 I’m looking for help with NodeJS
 - 📫 How to reach me: pedro.lmarinho2002@gmail.com
 - ⚡ Fun fact: spider man fan
 <div>
